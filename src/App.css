@@ -12,27 +12,56 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.header-element{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px;
+  position: sticky;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.header-logo {
+  width: 40px;
+  height: 40px;
   }
-  to {
-    transform: rotate(360deg);
+
+  .nav-links{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
   }
-}
+  .hero-section{
+    background: linear-gradient(135deg, #e0f2ff, #ffffff, #f3e8ff);
+    padding: 20px 0 40px 60px;
+    
+  }
+  .view-projects-resume{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+  .skills-snapshot{
+    padding: 20px 0 40px 60px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1)
+  }
+  .badge {
+    padding: 5px;
+    margin: 5px;
+    background-color: #e6edf2;
+    border-radius: 10px;
+  }
+  .badge:hover{
+    background-color: #dcf4fa;
+    cursor: pointer;
+  }
+
+  .projects{
+    padding: 20px 0 40px 60px;
+  }
+
+  .about-me{
+    padding: 20px 0 40px 60px;
+  }
+
+  .contact{
+    padding: 20px 0 40px 60px;
+  }
