@@ -9,6 +9,7 @@ export default function SkillsSnapshot(){
                     <span className="badge">TypeScript</span>
                     <span className="badge">Java</span>
                     <span className="badge">React</span>
+                    <span className="badge">React Router</span>
                     <span className="badge">Redux/Context API</span>
                     <span className="badge">HTML5</span>
                     <span className="badge">CSS</span>

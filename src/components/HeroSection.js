@@ -1,8 +1,8 @@
 export default function HeroSection(){
     return (
-        <section className="hero-section">
+        <section className="hero-section" id="home">
             <h1>
-                👋 Hi, I’m Khaidem Sandip.
+                👋 Hi, I’m Khaidem Sandip Singha.
             </h1>
             <h2>
                 Front-End Engineer | 3 YOE at Amazon
@@ -13,7 +13,7 @@ export default function HeroSection(){
             <div className="view-projects-resume">
                 <a href ="#projects" className="view-projects">View Projects →</a>
                 <a 
-                    href ="/KhaidemSandipGoogleSWEResume.pdf" 
+                    href ={`${process.env.PUBLIC_URL}/KhaidemSandipGoogleSWEResume.pdf`} 
                     className="resume"
                     target="_blank"
                     >

@@ -1,14 +1,16 @@
-import {BrowserRoute, Router, Routes} from 'react-router-dom';
-export default function Header(){
+export default function Header() {
     return (
         <header className="header-element">
-            <img src="https://avatars.githubusercontent.com/u/1006881?v=4" className="header-logo" alt="logo" />
+            <div className="logo-container">
+                <img src={`${process.env.PUBLIC_URL}/profile.jpeg`} className="header-logo" alt="Khaidem Sandip profile" />
+                <span className="logo-name">Sandip</span>
+            </div>
             <nav className="nav-links">
-                <a href="/" className="page-link">Home</a>
-                <a href="/" className="page-link">Projects</a>  
-                <a href="/" className="page-link">Blog</a>  
-                <a href="/" className="page-link">About</a>  
+                <a href="#home" className="page-link">Home</a>
+                <a href="#projects" className="page-link">Projects</a>  
+                <a href="#about" className="page-link">About Me</a>
+                <a href="#contact" className="page-link">Contact</a>
             </nav>
         </header>
-    )
+    );
 }
