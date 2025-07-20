@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/khaidem-sandip-portfolio/static/css/main.db89961d.css",
-    "main.js": "/khaidem-sandip-portfolio/static/js/main.9280744f.js",
+    "main.css": "/khaidem-sandip-portfolio/static/css/main.75f52d84.css",
+    "main.js": "/khaidem-sandip-portfolio/static/js/main.0ae100a7.js",
     "static/js/453.13456ebf.chunk.js": "/khaidem-sandip-portfolio/static/js/453.13456ebf.chunk.js",
     "index.html": "/khaidem-sandip-portfolio/index.html",
-    "main.db89961d.css.map": "/khaidem-sandip-portfolio/static/css/main.db89961d.css.map",
-    "main.9280744f.js.map": "/khaidem-sandip-portfolio/static/js/main.9280744f.js.map",
+    "main.75f52d84.css.map": "/khaidem-sandip-portfolio/static/css/main.75f52d84.css.map",
+    "main.0ae100a7.js.map": "/khaidem-sandip-portfolio/static/js/main.0ae100a7.js.map",
     "453.13456ebf.chunk.js.map": "/khaidem-sandip-portfolio/static/js/453.13456ebf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db89961d.css",
-    "static/js/main.9280744f.js"
+    "static/css/main.75f52d84.css",
+    "static/js/main.0ae100a7.js"
   ]
 }
