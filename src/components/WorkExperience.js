@@ -34,6 +34,18 @@ export default function WorkExperience() {
                     <li>Resolved 1000+ real-time student doubts, improving course completion rate by 20%.</li>
                 </ul>
             </div>
+            <div className="work-experience-content">
+                <h3>India Web Designs, Guwahati — Website Developer (Internship)</h3>
+                <p>July 2019 - Feb 2020</p>
+                <ul>
+                    <li>Delivered 4+ e-commerce projects using WordPress and PHP for regional clients,
+                    improving their online visibility and conversion rates.</li>
+                    <li>Developed a Django-based school website used by 500+ students and staff for
+                    academic resources and announcements.</li>
+                    <li>Worked closely with UI designers to enhance accessibility and responsiveness across
+                    devices, leading to a 40% reduction in user drop-off.</li>
+                </ul>
+            </div>
         </section>
     );
 }

@@ -5,7 +5,7 @@ export default function HeroSection(){
                 👋 Hi, I’m Khaidem Sandip Singha.
             </h1>
             <h2>
-                Front-End Engineer | 3 YOE at Amazon
+            Front-End Engineer | 3.8 Years Experience (3 at Amazon)
             </h2>
             <p>
                 I build performant, accessible, scalable UIs in React & TypeScript.
