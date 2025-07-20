@@ -28,11 +28,20 @@ export default function SkillsSnapshot(){
             <div className="skills-snapshot-content">
                 <h3>Certifications</h3>
                 <div className="skills-list">
-                    <span className="badge">AWS Certified Cloud Practitioner</span>
-                    <span className="badge">FrontEnd Developer Nanodegree</span>
+                    <a className="badge" href="https://www.credly.com/badges/9370c637-5117-45b0-b299-7cfd434e514f" target="_blank" rel="noopener noreferrer">
+                    AWS Certified Cloud Practitioner 🔗
+                    </a>
+                    <a className="badge" href="https://www.udacity.com/certificate/7F2GVM25" target="_blank" rel="noopener noreferrer">
+                    FrontEnd Developer Nanodegree 🔗
+                    </a>
+                    <a className="badge" href="https://v1.scrimba.com/certificate/uvYn9vCw/greact" target="_blank" rel="noopener noreferrer">
+                    The React Bootcamp 🔗
+                    </a>
+                    <a className="badge" href="https://ninjasfiles.s3.amazonaws.com/certificate13677709cdf169d9a63aa025194ec7014284a3a.pdf" target="_blank" rel="noopener noreferrer">
+                    Career Camp | Front End | Full Stack Web Development 🔗
+                    </a>
                 </div>
             </div>
-
         </section>
     )
 }

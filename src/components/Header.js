@@ -7,6 +7,7 @@ export default function Header() {
             </div>
             <nav className="nav-links">
                 <a href="#home" className="page-link">Home</a>
+                <a href="#experience" className="page-link">Work Experience</a>
                 <a href="#projects" className="page-link">Projects</a>  
                 <a href="#about" className="page-link">About Me</a>
                 <a href="#contact" className="page-link">Contact</a>
