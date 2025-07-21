@@ -7,11 +7,11 @@ export default function WorkExperience() {
                 <h3>Application Engineer III at Amazon, Bangalore</h3>
                 <p>July 2022 – Present</p>
                 <ul>
-                    <li>Automated manual retail operations, saving the equivalent of 50+ headcounts by integrating APIs into Visual Workflows.</li>
-                    <li>Reduced Vendor Chat UI prompt testing time by 99% by integrating UI configuration with vendor code database.</li>
-                    <li>Built a UI to test Alexa beta devices, ensuring readiness for Prime Day and festive events, enhancing experience for millions of customers.</li>
-                    <li>Provided 12x7 on-call support, resolving critical customer service tickets and ensuring system uptime.</li>
-                    <li>Collaborated with 3+ retail teams to identify and automate 10+ workflows, eliminating significant manual effort.</li>
+                    <li>Built a React dashboard used by 50+ engineers to track 500 tickets/week by issue type, reducing triage time by 40% and improving prioritization.</li>
+                    <li>Integrated frontend UI testing with backend configuration, reducing test time by 99% and accelerating vendor chat prompt validation.</li>
+                    <li>Built a web-based testing interface using vanilla JavaScript and Java backend to validate Alexa beta devices, ensuring readiness for millions of customers during Prime Day.</li>
+                    <li>Provided 12x7 on-call UI support, resolving critical customer-facing issues with minimal downtime and collaborating with cross-functional teams to ensure system stability.</li>
+                    <li>Worked with 3+ retail teams to deliver 25+ API integrations, automating 10+ visual workflows and eliminating manual effort equivalent to 50+ headcounts.</li>
                 </ul>
             </div>
 
@@ -19,9 +19,10 @@ export default function WorkExperience() {
                 <h3>Frontend Developer at Rexd Technologies, Bangalore</h3>
                 <p>October 2021 – June 2022</p>
                 <ul>
-                    <li>Built homepage and product detail pages for an eCommerce platform, improving load speed by 30% via optimized assets.</li>
-                    <li>Enhanced UI interactivity and integrated MongoDB-based CRUD operations, increasing user engagement by 15%.</li>
-                    <li>Collaborated with backend team to build cart-to-checkout flow, reducing product page drop-offs.</li>
+                    <li>Built home and product detail pages, boosting load speed by 30% via asset optimization.</li>
+                    <li>Increased engagement by 15% with interactive UI and MongoDB CRUD; optimized performance using image compression and Chrome Lighthouse fixes.</li>
+                    <li>Used React Context and Redux to manage cart, user, and filter state, cutting bugs by 40% and speeding up feature delivery.</li>
+
                 </ul>
             </div>
 
