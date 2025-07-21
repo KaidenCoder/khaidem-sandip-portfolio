@@ -403,6 +403,19 @@ body {
   .project-item a:hover {
     color: #0056b3;
   }
+
+  .project-links a {
+    margin-right: 12px;
+  }
+
+  .project-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  
   
   /* Mobile responsiveness */
   @media (max-width: 768px) {

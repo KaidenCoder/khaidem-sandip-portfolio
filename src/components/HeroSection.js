@@ -8,12 +8,12 @@ export default function HeroSection(){
             Front-End Engineer | 3.8 Years Experience (3 at Amazon)
             </h2>
             <p>
-                I build performant, accessible, scalable UIs in React & TypeScript.
+                I build performant, accessible, scalable UIs in React & JavaScript.
             </p>
             <div className="view-projects-resume">
                 <a href ="#projects" className="view-projects">View Projects →</a>
                 <a 
-                    href ={`${process.env.PUBLIC_URL}/KhaidemSandipGoogleSWEResume.pdf`} 
+                    href ={`${process.env.PUBLIC_URL}/KhaidemSandipFrontendEngineer.pdf`} 
                     className="resume"
                     target="_blank"
                     >
