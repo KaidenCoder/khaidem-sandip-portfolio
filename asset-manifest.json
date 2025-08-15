@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khaidem-sandip-portfolio/static/css/main.1fd0d045.css",
+    "main.js": "/khaidem-sandip-portfolio/static/js/main.e70e4b8b.js",
+    "static/js/453.13456ebf.chunk.js": "/khaidem-sandip-portfolio/static/js/453.13456ebf.chunk.js",
+    "index.html": "/khaidem-sandip-portfolio/index.html",
+    "main.1fd0d045.css.map": "/khaidem-sandip-portfolio/static/css/main.1fd0d045.css.map",
+    "main.e70e4b8b.js.map": "/khaidem-sandip-portfolio/static/js/main.e70e4b8b.js.map",
+    "453.13456ebf.chunk.js.map": "/khaidem-sandip-portfolio/static/js/453.13456ebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fd0d045.css",
+    "static/js/main.e70e4b8b.js"
+  ]
+}
